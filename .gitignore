@@ -1,0 +1,6 @@
+*.pdf
+/Lib
+/Scripts
+/share
+/pyvenv.cfg
+/Include
